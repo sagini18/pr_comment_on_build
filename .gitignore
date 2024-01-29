@@ -1,0 +1,8 @@
+node_modules
+.env
+
+
+# webhook secret = pr_comment-on_build
+# webhook url =https://smee.io/hqEBxBgZ6P7eDwg
+# homepage url = https://github.com/sagini18/pr_comment_on_build.git
+# bot name = pr-comment-on-build
